@@ -190,8 +190,6 @@ backup:
 	mkdir -p backup
 results:
 	mkdir -p results
-setchmod:
-	chmod +x *.sh
 
 .PHONY: clean
 
